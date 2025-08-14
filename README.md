@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ahmad 👋
 
-Welcome to my GitHub profile! I'm a [your profession/role, e.g., Software Engineer / Data Scientist / Student] passionate about [your interests, e.g., building innovative web apps, machine learning, open-source contributions].
+Welcome to my GitHub profile! I'm a backend developer passionate about building innovative web apps and open-source contributions.
 
 ## 🚀 About Me
 - 🔭 Currently working on [describe a current project or goal].
@@ -18,22 +18,18 @@ Welcome to my GitHub profile! I'm a [your profession/role, e.g., Software Engine
 - **Other**: [e.g., AWS, Machine Learning, UI/UX Design]
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadjafari86&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjafari86&layout=compact&theme=radical)
 
 ## 🏆 Achievements & Badges
 - [Any certifications or achievements, e.g., AWS Certified Developer]
-- [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ahmadjafari86&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📝 Latest Blog Posts
-- [Blog Post Title 1](link-to-post) - Brief description.
-- [Blog Post Title 2](link-to-post) - Brief description.
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ahmadjafari.dev@gmail.com)
 
 Thanks for visiting! Feel free to explore my repositories and star ⭐ the ones you like.
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ahmadjafari86)
