@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a backend developer passionate about building 
 - 📫 Reach me at: ahmadjafari.dev@gmail.com
 
 ## 🛠️ Skills & Technologies
-- **Languages**: [e.g., JavaScript, Python, Java]
+- **Languages**: C++, C#, Go, Python, JavaScript
 - **Frameworks**: [e.g., React, Node.js, Django]
 - **Tools**: [e.g., Git, Docker, VS Code]
 - **Other**: [e.g., AWS, Machine Learning, UI/UX Design]
