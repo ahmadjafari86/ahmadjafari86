@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a backend developer passionate about building innovative web apps and open-source contributions.
 
 ## 🚀 About Me
-- 🔭 Currently working on [describe a current project or goal].
+- 🔭 Currently working on CNCF(https://www.cncf.io/) open-source projects.
 - 🌱 Learning [technologies or skills you're focusing on, e.g., React, Python, AI].
 - 👯 Looking to collaborate on [types of projects, e.g., open-source tools for developers].
 - 🤔 Seeking help with [any challenges or topics].
