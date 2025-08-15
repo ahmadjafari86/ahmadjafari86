@@ -4,12 +4,11 @@ Welcome to my GitHub profile! I'm a backend developer passionate about building 
 
 ## 🚀 About Me
 - 🔭 Currently working on [CNCF](https://www.cncf.io/) open-source projects.
-- 🌱 Learning [technologies or skills you're focusing on, e.g., React, Python, AI].
-- 👯 Looking to collaborate on [types of projects, e.g., open-source tools for developers].
-- 🤔 Seeking help with [any challenges or topics].
-- 💬 Ask me about [your expertise areas].
+- 🌱 Learning distributed system architecture and cloud engineering.
+- 👯 Looking to collaborate on projects involving distributed systems and building resilient, scalable applications.
+- 🤔 Seeking help with best practices for implementing gRPC in a microservices architecture.
+- 💬 Ask me about learning Go, distributed system design, or my experience with the CNCF community.
 - 📫 Reach me at: ahmadjafari.dev@gmail.com
-- ⚡ Fun fact: [something interesting about you, e.g., I can solve a Rubik's cube in under a minute!].
 
 ## 🛠️ Skills & Technologies
 - **Languages**: [e.g., JavaScript, Python, Java]
