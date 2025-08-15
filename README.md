@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a backend developer passionate about building 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjafari86&layout=compact&theme=radical)
 
 ## 🏆 Achievements & Badges
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 
 
 ## 🔗 Connect with Me
