@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a backend developer passionate about building 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjafari86&layout=compact&theme=radical)
 
 ## 🏆 Achievements & Badges
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ahmadjafari86&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmadjafari86&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-profile-trophy.vercel.app/?username=ahmadjafari86&theme=onedark&row=true" alt="GitHub Profile Trophies">
 
