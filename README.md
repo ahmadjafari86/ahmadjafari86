@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmad 👋
 
-Welcome to my GitHub profile! I'm a backend developer passionate about building innovative web apps and open-source contributions.
+Welcome to my GitHub profile! I'm a backend developer passionate about building distributed systems and open-source contributions.
 
 ## 🚀 About Me
 - 🔭 Currently working on [CNCF](https://www.cncf.io/) open-source projects.
