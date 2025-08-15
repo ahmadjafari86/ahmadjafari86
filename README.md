@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm a backend developer passionate about building 
 - 📫 Reach me at: ahmadjafari.dev@gmail.com
 
 ## 🛠️ Skills & Technologies
-- **Languages**: C++, C#, Go, Python, JavaScript
-- **Frameworks**: [e.g., React, Node.js, Django]
-- **Tools**: [e.g., Git, Docker, VS Code]
-- **Other**: [e.g., AWS, Machine Learning, UI/UX Design]
+- **Languages**: C++, Rust, Go, Python, JavaScript
+- **Frameworks**: Qt, axum, Gin, Django, FastAPI, NestJS, gRPC
+- **Tools**: Docker, K8s, Kafka, RabbitMQ, Celery
+- **Other**: AWS, Firebase
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadjafari86&show_icons=true&theme=radical)
