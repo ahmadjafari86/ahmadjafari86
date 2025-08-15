@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a backend developer passionate about building 
 - 👯 Looking to collaborate on [types of projects, e.g., open-source tools for developers].
 - 🤔 Seeking help with [any challenges or topics].
 - 💬 Ask me about [your expertise areas].
-- 📫 Reach me at: [your email or LinkedIn/Twitter handle].
+- 📫 Reach me at: ahmadjafari.dev@gmail.com
 - ⚡ Fun fact: [something interesting about you, e.g., I can solve a Rubik's cube in under a minute!].
 
 ## 🛠️ Skills & Technologies
@@ -22,14 +22,10 @@ Welcome to my GitHub profile! I'm a backend developer passionate about building 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjafari86&layout=compact&theme=radical)
 
 ## 🏆 Achievements & Badges
-- [Any certifications or achievements, e.g., AWS Certified Developer]
 - [![trophy](https://github-profile-trophy.vercel.app/?username=ahmadjafari86&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🔗 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ahmadjafari.dev@gmail.com)
-
-Thanks for visiting! Feel free to explore my repositories and star ⭐ the ones you like.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ahmadjafari86)
