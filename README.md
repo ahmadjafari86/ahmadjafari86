@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm a backend developer passionate about building 
 
 
 ## 🔗 Connect with Me
-![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ahmadjafari.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ahmadjafari.dev@gmail.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ahmadjafari86)
