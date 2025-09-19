@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a backend developer passionate about building 
 ## 🛠️ Skills & Technologies
 - **Languages**: C++, Rust, Go, Python, JavaScript
 - **Frameworks**: Qt, axum, Gin, Django, FastAPI, NestJS, gRPC
-- **Tools**: Docker, K8s, Kafka, RabbitMQ, Celery
+- **Tools**: Docker, K8s, Kafka, NATS, RabbitMQ, Celery
 - **Other**: AWS, Firebase
 
 ## 📊 GitHub Stats
