@@ -1,31 +1,25 @@
-# Hi there, I'm Ahmad 👋
+# Hi, I'm Ahmad 👋
 
-Welcome to my GitHub profile! I'm a backend developer passionate about building distributed systems and open-source contributions.
+I'm a backend developer focused on building reliable, scalable, and production-ready systems.
 
-## 🚀 About Me
-- 🔭 Currently working on [CNCF](https://www.cncf.io/) open-source projects.
-- 🌱 Learning distributed system architecture and cloud engineering.
-- 👯 Looking to collaborate on projects involving distributed systems and building resilient, scalable applications.
-- 🤔 Seeking help with best practices for implementing gRPC in a microservices architecture.
-- 💬 Ask me about learning Go, distributed system design, or my experience with the CNCF community.
-- 📫 Reach me at: ahmadjafari.dev@gmail.com
+I mainly work with Python, Django, FastAPI, PostgreSQL, Redis, RabbitMQ, Kafka, Docker, and Go.  
+I'm interested in distributed systems, backend architecture, fintech platforms, and meaningful open-source contribution.
 
-## 🛠️ Skills & Technologies
-- **Languages**: C++, Rust, Go, Python, JavaScript
-- **Frameworks**: Qt, axum, Gin, Django, FastAPI, NestJS, gRPC
-- **Tools**: Docker, K8s, Kafka, NATS, RabbitMQ, Celery
-- **Other**: AWS, Firebase
+Currently, I'm improving my open-source presence by contributing to Python backend projects such as Celery and related ecosystem tools.
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadjafari86&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjafari86&layout=compact&theme=radical)
+## About Me
 
-## 🏆 Achievements & Badges
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmadjafari86&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- Backend developer with experience in designing and maintaining real-world systems
+- Comfortable working with APIs, databases, async workers, messaging systems, and containerized deployments
+- Interested in distributed systems, cloud-native architecture, and open-source collaboration
+- Open to remote backend opportunities and international collaboration
+- Currently focused on improving my GitHub profile through practical open-source contributions
 
+## Tech Stack
 
-## 🔗 Connect with Me
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ahmadjafari.dev@gmail.com)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ahmadjafari86)
-
+- **Languages:** Python, Go, JavaScript
+- **Backend:** Django, Django REST Framework, FastAPI
+- **Databases:** PostgreSQL, Redis
+- **Messaging & Async:** Celery, RabbitMQ, Kafka
+- **DevOps:** Docker, Docker Compose, Nginx, Linux
+- **Learning / Exploring:** Kubernetes, distributed systems, cloud engineering
