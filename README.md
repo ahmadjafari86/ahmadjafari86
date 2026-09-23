@@ -1,25 +1,51 @@
-# Hi, I'm Ahmad 👋
+# Hi, I'm Ahmad
 
-I'm a backend developer focused on building reliable, scalable, and production-ready systems.
+I'm a **Backend & Infrastructure Engineer** focused on building reliable, production-ready systems and gradually moving deeper into **systems programming and Linux infrastructure**.
 
-I mainly work with Python, Django, FastAPI, PostgreSQL, Redis, RabbitMQ, Kafka, Docker, and Go.  
-I'm interested in distributed systems, backend architecture, fintech platforms, and meaningful open-source contribution.
+My main production experience is with Python backend systems, distributed components, databases, messaging, and containerized deployments. I'm also developing my systems-level skills through Go, Rust, Linux internals, virtualization, and open-source contribution.
 
-Currently, I'm improving my open-source presence by contributing to Python backend projects such as Celery and related ecosystem tools.
+## Current Focus
 
-## About Me
+- Backend architecture and distributed systems
+- Linux, containers, networking, and infrastructure
+- Systems programming with **Go and Rust**
+- Virtualization, KVM, VirtIO, and low-level Linux interfaces
+- Production reliability, security, and observability
+- Meaningful open-source contributions to established engineering projects
 
-- Backend developer with experience in designing and maintaining real-world systems
-- Comfortable working with APIs, databases, async workers, messaging systems, and containerized deployments
-- Interested in distributed systems, cloud-native architecture, and open-source collaboration
-- Open to remote backend opportunities and international collaboration
-- Currently focused on improving my GitHub profile through practical open-source contributions
+## Open Source
+
+Recent work includes:
+
+- **Flagsmith** — [CLI usage telemetry middleware](https://github.com/Flagsmith/flagsmith/pull/8541)
+- **Zulip** — [handling realm-creation subdomain races](https://github.com/zulip/zulip/pull/39830)
+
+I'm currently exploring lower-level open-source projects in the Linux, container-runtime, and virtualization ecosystem.
 
 ## Tech Stack
 
-- **Languages:** Python, Go, JavaScript
-- **Backend:** Django, Django REST Framework, FastAPI
-- **Databases:** PostgreSQL, Redis
-- **Messaging & Async:** Celery, RabbitMQ, Kafka
-- **DevOps:** Docker, Docker Compose, Nginx, Linux
-- **Learning / Exploring:** Kubernetes, distributed systems, cloud engineering
+**Languages**  
+Python · Go · JavaScript  
+Currently learning and using Rust for systems programming
+
+**Backend**  
+Django · Django REST Framework · FastAPI
+
+**Data & Messaging**  
+PostgreSQL · Redis · RabbitMQ · Kafka · Celery
+
+**Infrastructure**  
+Linux · Docker · Docker Compose · Nginx
+
+**Systems Interests**  
+Linux internals · Container runtimes · KVM · VirtIO · eBPF · Distributed systems
+
+## Engineering Interests
+
+I enjoy working on problems where software meets infrastructure: concurrency, process isolation, messaging, resource management, reliability, and the boundary between user space and the operating system.
+
+I'm especially interested in open-source projects where understanding the underlying system matters more than simply adding application-level features.
+
+## Contact
+
+I'm open to remote backend, infrastructure, and systems-oriented engineering opportunities and international collaboration.
