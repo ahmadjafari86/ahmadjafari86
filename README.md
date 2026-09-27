@@ -13,14 +13,6 @@ My main production experience is with Python backend systems, distributed compon
 - Production reliability, security, and observability
 - Meaningful open-source contributions to established engineering projects
 
-## Open Source
-
-Recent work includes:
-
-- **Flagsmith** — [CLI usage telemetry middleware](https://github.com/Flagsmith/flagsmith/pull/8541)
-- **Zulip** — [handling realm-creation subdomain races](https://github.com/zulip/zulip/pull/39830)
-
-I'm currently exploring lower-level open-source projects in the Linux, container-runtime, and virtualization ecosystem.
 
 ## Tech Stack
 
