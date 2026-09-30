@@ -17,7 +17,7 @@ My main production experience is with Python backend systems, distributed compon
 ## Tech Stack
 
 **Languages**  
-Python · Go · JavaScript  
+C++ · Python · Go · JavaScript  
 Currently learning and using Rust for systems programming
 
 **Backend**  
